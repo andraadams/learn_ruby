@@ -8,11 +8,11 @@
 #
 # This directory is the starting point for this exercise. It contains a spec file and you'll be adding a ruby file to (eventually) make the specs pass.
 #
-# ## Run the test!
+# ## Run the test.
 #
 #     rake
 #
-# ## Watch it fail!
+# ## Watch it fail.
 #
 # You should see an error. **Don't get scared!** Try to read it and figure out what the computer wants to tell you. Somewhere on the first line it should say something like
 #
