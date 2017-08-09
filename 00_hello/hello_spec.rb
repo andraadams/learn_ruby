@@ -8,7 +8,7 @@
 #
 # This directory is the starting point for this exercise. It contains a spec file and you'll be adding a ruby file to (eventually) make the specs pass.
 #
-# ## Run the test
+# ## Run the test!
 #
 #     rake
 #
