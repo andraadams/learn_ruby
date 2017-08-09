@@ -12,7 +12,7 @@
 #
 #     rake
 #
-# ## Watch it fail!
+# ## Watch it fail
 #
 # You should see an error. **Don't get scared!** Try to read it and figure out what the computer wants to tell you. Somewhere on the first line it should say something like
 #
